@@ -75,6 +75,3 @@ Después, ejecuta el código línea por línea y observa el resultado.
 
 
 
-## Referencias
-
-1. Python 3.6 documentation.
