@@ -47,7 +47,9 @@ $conda install -c https://conda.anaconda.org/conda-forge opencv
 __Instructores__
 
 Ing. Ángel Hernández, ahernandezp1800@alumno.ipn.mx
+
 M. En R. Karen Flores, kfloresr1800@alumno.ipn.mx
+
 M. En TA. Sandra de la Fuente, sdelafuenteb1400@alumno.ipn.mx
 
 
@@ -55,5 +57,6 @@ M. En TA. Sandra de la Fuente, sdelafuenteb1400@alumno.ipn.mx
 __Organizadores__
 
 M. En TA. Raymundo Ramos.
+
 M. En TA. Christian Matilde.
 
