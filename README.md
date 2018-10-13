@@ -2,9 +2,12 @@
 www.cicataqro.ipn.mx
 
 
+
 __Objetivo__
 
 El curso de Procesamiento Digital de Imágenes presentado utiliza herramientas básicas de código abierto. Pretende introducir al usuario a este entorno de programación para el procesamiento digital de imágenes con un enfoque teórico-práctico. 
+
+
 
 __Contenido del curso__
 
@@ -15,6 +18,8 @@ __Contenido del curso__
 * Introducción a herramientas de programación en código abierto (Anaconda, Octave, Python y OpenCV).
 * Procesamiento digital de imágenes.
 
+
+
 __Requisitos__ 
 
 Anaconda (para Windows, iOs o Linux) con Python 2.7+ (https://www.anaconda.com/download/)
@@ -22,6 +27,7 @@ Anaconda (para Windows, iOs o Linux) con Python 2.7+ (https://www.anaconda.com/d
 Octave versión reciente (gnu.org/software/octave/)
 
 Cuenta activa de Github (github.com)
+
 
 
 __Instalación de librerías__
@@ -37,11 +43,14 @@ $conda install -c anaconda git jupyter numpy matplotlib
 $conda install -c https://conda.anaconda.org/conda-forge opencv
 
 
+
 __Instructores__
 
 Ing. Ángel Hernández, ahernandezp1800@alumno.ipn.mx
 M. En R. Karen Flores, kfloresr1800@alumno.ipn.mx
 M. En TA. Sandra de la Fuente, sdelafuenteb1400@alumno.ipn.mx
+
+
 
 __Organizadores__
 
